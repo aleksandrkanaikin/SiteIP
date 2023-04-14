@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+
+body{
+    background-color: #030D15;
+}
+
+.header{
+    height: 90px;
+}
+.menu{
+    color: #F3F3F3;
+    font-size: 14px;
+    font-family: 'Hind Siliguri', sans-serif;
+    padding-left: 353px;
+    padding-top: 23px;
+}
+
+ul {
+  list-style: none;
+}
+li{
+    display: inline;
+    margin: 40px;
+    text-transform: uppercase;
+}
+.sidebar{
+    padding-left: 15px;
+    padding-top: 23px;
+}
+#search{
+    margin-right: 30px;
+}
+#basket{
+    margin-right: 30px; 
+}
